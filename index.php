@@ -178,3 +178,4 @@ include 'db.php';
     </style>
 </body>
 </html>
+HELLO FROM ERIK AND DANIEL
